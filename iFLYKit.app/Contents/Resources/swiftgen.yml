@@ -1,0 +1,7 @@
+xcassets:
+  inputs: iFLYKit/Assets.xcassets
+  outputs:
+    - templateName: swift5
+      output: iFLYKit/Resource/SwiftGen/Assets.swift
+      params:
+        publicAccess: true
