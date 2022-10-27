@@ -6,27 +6,27 @@
 	<dict>
 		<key>Resources/AppIcon.icns</key>
 		<data>
-		3wowgB1wiHaRmIVK2iH2EGyp2q8=
+		GBBU12aNxSDHWFggJ0rPF/m/KGk=
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		ZC9UC97G4+zbRW7v0IY4AQ7ivxo=
+		QeuvPCjp9mNE2czCiuz6vBsOY30=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		8wNhO/KfX2rvA5gk5Yfg7N0Q7wA=
+		kk2TG7B7aFMaEOUzTNblYR8wVIQ=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		8c3Fo+z4towF2Pe3oIQLYKujO0o=
+		MW+9zJ5izvufW0pJby1errhV6yo=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<data>
-		vSxFly9O7/Rcwhz7BuXTFB7eeSs=
+		wN8rzatPElcmwOxJ9IZsMHizY2Y=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/TestRec.nib</key>
 		<data>
-		+KLHra//OtUdAJbwpfrGO5nDMoA=
+		JRpVnpFdSl0jSTeKKSiZ47N5VuY=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/qTz-M3-eB7-view-jI1-Xv-WBn.nib</key>
 		<data>
@@ -38,15 +38,15 @@
 		</data>
 		<key>Resources/KitA2DPRecordingViewController.nib</key>
 		<data>
-		PJHs39Ceu19oFfl65zY4EkD4gAA=
+		rqv/bO97EydXwxir2uZ+/+s5A8Q=
 		</data>
 		<key>Resources/KitCallRecordingViewController.nib</key>
 		<data>
-		g8X3CSlEwRW6cXiJpKsMlLTopME=
+		lcvqTNyyq//B/Lpc3AuCBX0sO6o=
 		</data>
 		<key>Resources/KitConnectGuiderAlertController.nib</key>
 		<data>
-		pdqqFepX42wTFVEtdMzwfEUuypo=
+		doafHxv9pmXwnMEXCWndEA9EEQo=
 		</data>
 		<key>Resources/KitDetailCell.nib</key>
 		<data>
@@ -54,15 +54,15 @@
 		</data>
 		<key>Resources/KitDeviceViewController.nib</key>
 		<data>
-		lvPyIQfmpUW0AWLI20MSse/Ijv0=
+		z6AXyfipKDWQOnZfoVlVUkLdewQ=
 		</data>
 		<key>Resources/KitLoginViewController.nib</key>
 		<data>
-		516ba9eXUnX41Elziz0kpOHV6w8=
+		KcQd7RqBKiiy9JThSldmz3mJ9es=
 		</data>
 		<key>Resources/KitMainViewController.nib</key>
 		<data>
-		SYyQqjhiDUoIlLJvCtCFQJxwlbg=
+		683Zj8DSjV6ayquITtX5drWJcz4=
 		</data>
 		<key>Resources/KitMenuItem.nib</key>
 		<data>
@@ -82,31 +82,31 @@
 		</data>
 		<key>Resources/KitRecordDetailViewController.nib</key>
 		<data>
-		eiHjDLi7HPY1ZlBri2tdbCwyNBU=
+		Prg/hCEIVT+ehgCFkFLbXbJn7YY=
 		</data>
 		<key>Resources/KitRecordListCell.nib</key>
 		<data>
-		Hqom/BwlHsgDYAu8Cu54d1ladH8=
+		CFpsWvcv/h2qHJSiV/ZXPdl87KU=
 		</data>
 		<key>Resources/KitRecordListViewController.nib</key>
 		<data>
-		NDBULQ8ywKNkRR4yUWTDBWafPD8=
+		sMhTCiknQPGA89CxJqDYs/rPDNk=
 		</data>
 		<key>Resources/KitRecordModeSelectViewController.nib</key>
 		<data>
-		DjX+hTWet/ZF/jm5/6y8SiJ2CTc=
+		1jP9xTCR1R6dAPlMfNNJD8iAAvU=
 		</data>
 		<key>Resources/KitSettingViewController.nib</key>
 		<data>
-		iaczj/a0PcgwJXdvvA/aRa4lVtM=
+		lXyGd1xi+vlKbstXD+Ctq9XJXj8=
 		</data>
 		<key>Resources/KitUseGuiderSwitchAlertController.nib</key>
 		<data>
-		jgMkuEbxt8dYmasHd88uzHZ7JYQ=
+		6/etzS1ZYH88jqft0LOgDEt8U4k=
 		</data>
 		<key>Resources/PairDeviceCell.nib</key>
 		<data>
-		1oe61yGEKv0Vup0R9ILYKUjsdVY=
+		CVwwy2UzBpSkDJXdiSm0LhM3H3c=
 		</data>
 		<key>Resources/RecTestCell.nib</key>
 		<data>
@@ -116,21 +116,37 @@
 		<data>
 		i6KgKEmldZGtJTBLieSueZkjeIc=
 		</data>
+		<key>Resources/WelcomBudUnSupportViewController.nib</key>
+		<data>
+		ozZlk1nlBfowveuSQnQJpK3nMVM=
+		</data>
+		<key>Resources/WelcomKitActiveFailViewController.nib</key>
+		<data>
+		jttQAMB5SvxRaM3gRpZ4of0qhZ0=
+		</data>
+		<key>Resources/WelcomSppConnectFailViewController.nib</key>
+		<data>
+		FIvt1KlrFI6sd/dPhcV67Ua3P7Q=
+		</data>
 		<key>Resources/WelcomeGuiderController.nib</key>
 		<data>
-		nM62IkE5ZBKAgeNfd9oi+7BVByU=
+		ngeXZLXPwxGkiHiEaBSKDtHVoh4=
 		</data>
 		<key>Resources/WelcomeHomeController.nib</key>
 		<data>
-		QrIlTpSmwN45UV5nCmjpXZV4pLw=
+		cPLVK/0rfM6DO+tGs80PZbYsFz4=
 		</data>
 		<key>Resources/WelcomeSelectController.nib</key>
 		<data>
-		APadZSGhWwxYVpSDbZ7OlDQ1Vt0=
+		U2jiurfGoQn9y3nQw0Fvrcp4ylM=
 		</data>
 		<key>Resources/WelcomeSuccussController.nib</key>
 		<data>
-		AY+r9T1CIHOJySg4/3Th+AAuqEg=
+		qZQ8UuIAQdO7uBcs06VjNi5eH08=
+		</data>
+		<key>Resources/WelcomeTipViewController.nib</key>
+		<data>
+		aOqrtyYdlCj2gcXnkkgvBRy9TEo=
 		</data>
 		<key>Resources/en.lproj/Localizable.strings</key>
 		<dict>
@@ -182,7 +198,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			HFj1MtNqbRGELLJDTLfGMKnGds0=
+			2p2/F6YFoUzWg7t5ttUCZQuU7Us=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.cocoapods.Alamofire" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "932QX878KY")</string>
@@ -200,7 +216,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			B8rio4SfY1S5ymsoGqxLes4CvEk=
+			3HprWjGOUaht9C1NRNg+tIOtPFg=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier EventMonitor and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "932QX878KY")</string>
@@ -209,7 +225,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			aRgO5x3dp2HSdoLoJyEjYK/w2+Q=
+			iSjv+SMAHIppkSaw8Fd9WhVJzPc=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.cocoapods.GZIP" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "932QX878KY")</string>
@@ -218,7 +234,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			zSwCgmdX6uhYLuFCu+9QYjNh78U=
+			FR8lUwm13dqvZqWpEYD7Tdzf71w=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "iflytek.HotKeyKit" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "932QX878KY")</string>
@@ -236,7 +252,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			/L6LD9YNyvZvFKPSldY89ezvmDQ=
+			nX7G3aXy1p3+4zLcaFYYiY2+y+Q=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "iflytek.MenuKit" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "932QX878KY")</string>
@@ -245,7 +261,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			p2U4Xg5imAOdZmCYo66S4jIuWqI=
+			8lTBfbfqMuqYfWnBY0YR9IlT5mY=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.cocoapods.RxCocoa" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "932QX878KY")</string>
@@ -254,7 +270,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			47lmNTRQBG3jVyiX6B2UQROBc9g=
+			B4M7fohguZHU4iDob8fPuQJLgjE=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.cocoapods.RxRelay" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "932QX878KY")</string>
@@ -263,7 +279,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			SjpRZ1Lk8Uf9aGxl6KPi2Z3BB6A=
+			KqiDmVjNVK5y76wt8SAp8Iv5spw=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.cocoapods.RxSwift" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "932QX878KY")</string>
@@ -272,7 +288,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			LF3wzTHoTi+sHQRKUjXNDXTyYsk=
+			36wVtaUYpHvzhX7l3cMhWvDXvQ4=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.cocoapods.SSZipArchive" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "932QX878KY")</string>
@@ -281,7 +297,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			RVC0AAzmKUf+XXa988MVE6BDu2Q=
+			scN32ZmfHv3NJc1wSYQF3SUgMe8=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.cocoapods.SnapKit" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "932QX878KY")</string>
@@ -290,16 +306,25 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Ib6MftCQZu+bIqoxyLkbp4rbsyU=
+			wBbAfX9BVUoIdNxzJt0+moQ7+mA=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.cocoapods.SocketRocket" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "932QX878KY")</string>
+		</dict>
+		<key>Frameworks/Sparkle.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			q87BDF7V22Wsyn6bnLrdNDi7by8=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "org.sparkle-project.Sparkle" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "932QX878KY")</string>
 		</dict>
 		<key>Frameworks/SwiftyJSON.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			N8JonUxQeYM0ds+iemn+xe76+dw=
+			dcUeQ8UxB8WXsB3505s2ozDj/Us=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.cocoapods.SwiftyJSON" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "932QX878KY")</string>
@@ -308,7 +333,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			2bz2NHy1GsYBTcLixi7h8t20wxQ=
+			URHZIlocQ9IPo2NSwCjgCVwWe/w=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.cocoapods.WCDB" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "932QX878KY")</string>
@@ -317,7 +342,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			myynV90uVD2rudJbZEH8PSp0fHM=
+			Fzfe65SOmWWCPdQvdp28/K4Wg/4=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.cocoapods.YYModel" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "932QX878KY")</string>
@@ -506,7 +531,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			4K5a16Jp53Gjy2C0vDiFv5P1Zt8=
+			2KwylC3BXP5TV/VLiS2O1zCX4U4=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.cocoapods.sqlcipher" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "932QX878KY")</string>
@@ -515,7 +540,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			g7WieqD2wUi5d9OFcxKVcqOr9bw=
+			9kdfMfus/Fjdwnyp3SL6+1mrG2w=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.cocoapods.sqliterk" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "932QX878KY")</string>
@@ -524,42 +549,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/7bbgmAxKYSewEKikBsWiEj0Zzp6mMzHzLMPIQ8YeYg=
+			uQyNFzMf0CuGZMfsRmfWrDVCTDiHxwMcU/EPaBAAvGA=
 			</data>
 		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1nFi/2yilcE1J7b+OkA4zlSdnGCsab+RqZ1djqWBshk=
+			dpnD5kNid3C4ncm7NKUwR4WTcfiyJY64KZUO+RysUW8=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QZi2cFsbhtgYcOD1mzm1U+ZYbI4pCWXIp3Pg28fKot0=
+			pK8l0uMWbJPWxziKUeJUqnQzE+oqVDPrgWruqtDl1+Y=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sy1KtuyfxiBvZkV7N4eyfSq30D+fYiiLg5B9i/erzVw=
+			VuHfNLgAmqbC521JJG8ePqIa2g0kmeyepT23uQLKlmk=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SGD0e/+Xb0kqCG48HJerHFUnTQ5o21e/ruk29AkKNsg=
+			WbuZvM+jzdN2Fykz13lfKGQZn5IqtvKNPwflDEQVJXU=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/TestRec.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C2QZJFirjsqohejK4GGg1gRQxYvcEiMzOhv4UZ48JwE=
+			85czULYkblAmU36jL3HyK8vAd7+uvUJtxmUPfNwpn/M=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/qTz-M3-eB7-view-jI1-Xv-WBn.nib</key>
@@ -580,21 +605,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pOLJsgH5XLjw6ikIesTZF8KMAGSZ9xBDtV5INd0yKko=
+			m0218LMj7SW67BsResNbKBV7l+OhXzcXvoLcln/Y/LE=
 			</data>
 		</dict>
 		<key>Resources/KitCallRecordingViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a91stWMKfvYlILDlJT4jbpiyyww/1hJxmpT3u35AB4s=
+			z57WQkDwVr+NiKHL64Dm4gBGCXmmdw1BThYVQ8jvH4g=
 			</data>
 		</dict>
 		<key>Resources/KitConnectGuiderAlertController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+5R/TuXmd73Yr8/fU39As0jWV0Lp38xNkKFIIYYf11c=
+			d2DZmNbJV0fpBdlaRkaG9ONxL+PWVXTjlH10mLKQvnI=
 			</data>
 		</dict>
 		<key>Resources/KitDetailCell.nib</key>
@@ -608,21 +633,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O0ly+F+w1Ghk62pEva0faWd8Gkrd3xT3hO0OAUJ+HIQ=
+			b0/Jq+XjVJziciOks7KVG+HMsQNN0r+rDSAYJ1tZXHY=
 			</data>
 		</dict>
 		<key>Resources/KitLoginViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WTX5GaN7mGVaQBnHPLxWYEdUq3Tuy2fQcKTb8/oi8yQ=
+			mWAflDjob9QSnjVdknI7QiWMp9OEtD3XQspbRRmaYsQ=
 			</data>
 		</dict>
 		<key>Resources/KitMainViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5HEYfLT826fh8CrwKh2/AguehpxgVSpH1bOxyXtEB6E=
+			ZrJCYlnkizk+GKQijcIMIEXlQ5riDmkiHO1rilgkFko=
 			</data>
 		</dict>
 		<key>Resources/KitMenuItem.nib</key>
@@ -657,49 +682,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mCsPFaJUrrPfJ28s5ZANu1JJ22AvsmHHJoD9O1zbIm0=
+			dwQFHQW9uAc9wLtX+5UcJ9e+2WvpHM7NO9iH4fY04+Q=
 			</data>
 		</dict>
 		<key>Resources/KitRecordListCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xN5f1WcxnPEMeGprTgZ/I+xrKatVP5lxcE8h/eXdd7Y=
+			oBCvMeF9P0p4KF55b0fPW3lVun7YgGYsJdEBuKpW1mM=
 			</data>
 		</dict>
 		<key>Resources/KitRecordListViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iY/f3fbsT+sfpidAT2hc5gIUD1jCKMeVp/J6UHbVd4g=
+			Nvsenb+JHDqCZlfMUah2oCwgfc8ONXKcBFaQ8pY8svo=
 			</data>
 		</dict>
 		<key>Resources/KitRecordModeSelectViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u2AreQb7JODNPS5VL/NX4yfTCj7iTMv5K+7L43l2kvU=
+			xu/dwpyDYv+v5gAbSMQ/SA7OFbq0oshlOtmUKJCnQCc=
 			</data>
 		</dict>
 		<key>Resources/KitSettingViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1QfTiy0PHB77Hm1WHx1I8ViZ8KDM89fRG9N5gM0k3HQ=
+			Pi+fgVQR2PyLXX/Je9kh0gpCYIxwRDSrcdHWQAUmPzI=
 			</data>
 		</dict>
 		<key>Resources/KitUseGuiderSwitchAlertController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cFUiSRwFjJ3lATFlDU/mgg1iDNbc9yqDbjatUcdX4SI=
+			oewXDV5NxH8px41K95vX01serSW1j6lWvBfVOnplpYE=
 			</data>
 		</dict>
 		<key>Resources/PairDeviceCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WJG8UPvB42mdnMDYbEn///r2NjdcKrNIlJ17uPGylLE=
+			Nv+232Sfsw6aa5Mk1DlkOHGeqY3EZFd2t9NYtMWC7aA=
 			</data>
 		</dict>
 		<key>Resources/RecTestCell.nib</key>
@@ -716,32 +741,60 @@
 			bV6nVm/pJR5WJnByyNW3OFs32jnjVX6Hc3X2qBw30JE=
 			</data>
 		</dict>
+		<key>Resources/WelcomBudUnSupportViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			I3xLcHdWL3c7VY5A8UysCAI724O+eW57Cq6c65Neik0=
+			</data>
+		</dict>
+		<key>Resources/WelcomKitActiveFailViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VnFR5bwwwHkG8qeKEmX7LnOyl9jE44sfltDdahnMRA8=
+			</data>
+		</dict>
+		<key>Resources/WelcomSppConnectFailViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mRzGU2DBwHazFZdwUVtFt+PRh6Fk2CIbUQY78pN1Bvc=
+			</data>
+		</dict>
 		<key>Resources/WelcomeGuiderController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XTtgxK2qKNLYdKWd+4tgtHFnGyj722fthg69KYtOPJE=
+			/bSTnXVSH+o43e80+A1ynl/dgNRfgTWUmO/hZZHqO5A=
 			</data>
 		</dict>
 		<key>Resources/WelcomeHomeController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1NHv3H6frjH+Du0BADHIEdAWWlUsiyuB4y8kGSXYo4M=
+			PxUnrsyGaXdCkCg/ijYkGnpkKXT/kIhP1oI0xzX3wEU=
 			</data>
 		</dict>
 		<key>Resources/WelcomeSelectController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s/lsMM/GNGH15AqWjEscpUJhfOUuSr8XEdlsNR0Aemk=
+			t3C6yLhWTTyUSFjk5JfAprI9JVU2+Shn+gF98ed91k8=
 			</data>
 		</dict>
 		<key>Resources/WelcomeSuccussController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ELESbhdH0MU9uWEZkgUqHkCOKNBEZY3c5vsyk5KO5zQ=
+			s1JBLYQ1QzdZVh0kBTUEiK1jbCm/IyyGpMk+EtEpCvg=
+			</data>
+		</dict>
+		<key>Resources/WelcomeTipViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			g7tnQtA8Eyyhb8OMjjYtZ5LIOPOAgZjN8I7KzxqAT3c=
 			</data>
 		</dict>
 		<key>Resources/en.lproj/Localizable.strings</key>
